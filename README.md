@@ -20,7 +20,7 @@
 
 | **권진철** | **김지원** |
 | :------: |  :------: |
-| [<img src="https://avatars.githubusercontent.com/u/145963704?v=4" height=150 width=150> <br/> @Jincheol-11](https://github.com/Jincheol-11) 
+| [<img src="https://avatars.githubusercontent.com/u/145963704?v=4" height=150 width=150> <br/> @Jincheol-11](https://github.com/Jincheol-11)|
 | [<img src="https://avatars.githubusercontent.com/u/40616792?v=4" height=150 width=150> <br/> @kimg1623](https://github.com/kimg1623) |
 | 상품전체보기<br>상품상세조회<br>관리자 로그인<br>기능 구현 | 관리자 기능 구현<br>구현 기능 연결|
 
