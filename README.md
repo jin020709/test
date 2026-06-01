@@ -77,56 +77,11 @@
 <br>
 
 <details>
-  <summary>유스케이스 다이어그램</summary>
-
- ![image (4)](https://github.com/jyeeeh/Shopping-CLI-Java/assets/145963612/a04ebb93-1788-4e51-98d7-df8a6b5d033b)
-
-
-
-</details>
-
-<br>
-
-<details>
-  <summary>시퀀스 다이어그램</summary>
-
-  1. Actor : 회원
-  ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/288f651e-bcb9-43cb-b96b-845c0ed1aa15)
-
-  
-  
-  3. Actor : 관리자
-  ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/ca35abda-51d9-4136-b2bf-62bf1b17337c)
-
-
-</details>
-
-<br>
-
-<details>
   <summary>클래스 다이어그램</summary>
 
 ![class](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963704/a574220c-39cd-436f-85f4-f3b2600a660c)
 
 
-
-</details>
-
-<br>
-
-<details>
-  <summary>블록 다이어그램</summary>
-  
-  ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/870d8b2f-f010-49e8-864b-e4f3113719a2)
-
-</details>
-
-<br>
-
-<details>
-  <summary>ER 다이어그램</summary>
-  
-  ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/b421ce09-7b90-4d1d-8587-0829bb2dc023)
 
 </details>
 
@@ -247,6 +202,10 @@
 
 ### 🍊 조경진
 
-코드를 설계할 때 가장 기본이라고 할 수 있는 CRUD를 처음으로 직접 적용해본 경험이었습니다. 만든 코드로 기능을 구현해보고 그것을 DB와 연동하여 IntelliJ에 나타냈지만, DB 구축에는 아직 낯설어 참여하지 못했던 것이 아쉬웠습니다. 프로젝트를 진행하면서 가장 크게 느꼈던 점이 있었습니다. 바로 '완벽'했을 때 비로소 프로젝트가 '완성'된다는 것이었습니다. 예를 들면 부여된 값 외의 다른 값을 입력할 때에도 코딩을 하는 것처럼 모든 상황을 대비할 수 있어야 한다고 생각했습니다. 부족한 부분은 Git과 함께 리뷰를 하면서 조금씩 채워나가겠습니다.
+프로젝트 후기
 
 <br>
+
+### 🍊 황지민
+
+프로젝트 후기
