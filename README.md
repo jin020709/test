@@ -182,8 +182,32 @@
 
 <br>
 
+## 5. AI 활용 내역
 
-## 5. 프로젝트 후기
+<details>
+  <summary>AI 프롬프트 내역</summary>
+
+  1. 초기화면
+  ![image](https://github.com/user-attachments/assets/a0cdb3f0-9e02-4074-99b0-167c38eb2e09)
+
+2. 회원 로그인 성공 후 화면
+   ![image](https://github.com/user-attachments/assets/b71e34f8-bd81-406a-a0bc-192f1ac47653)
+
+3. 장바구니
+   ![image](https://github.com/user-attachments/assets/850f0789-0312-400d-98af-87eb6c88f498)
+
+4. 관리자 로그인 성공 후 메뉴 / 상품관리화면 / 주문관리화면
+   ![image](https://github.com/user-attachments/assets/b4cdcd12-6cc7-4047-bc81-3ad6d003f88a)
+
+
+
+</details>
+
+  
+<br>
+
+
+## 6. 프로젝트 후기
 
 ### 🍊 조경진
 
