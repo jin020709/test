@@ -1,7 +1,5 @@
 # 🍎 음식쇼핑몰 Java 프로그램
 
-![image](https://github.com/user-attachments/assets/48e0a959-cee6-4485-a951-817adf43b454)
-
 <br>
 
 ## 프로젝트 소개
