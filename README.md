@@ -52,7 +52,7 @@
   <summary>요구사항 명세서</summary>
 
   1. 초기화면
-  ![image](https://github.com/user-attachments/assets/05ae2d72-73f0-4eaa-85e8-86ed6ca506ab)
+  ![image](https://github.com/user-attachments/assets/a0cdb3f0-9e02-4074-99b0-167c38eb2e09)
 
 2. 회원 로그인 성공 후 화면
    ![image](https://github.com/user-attachments/assets/b71e34f8-bd81-406a-a0bc-192f1ac47653)
