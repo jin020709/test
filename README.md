@@ -57,8 +57,8 @@
 2. 회원 로그인 성공 후 화면
    ![image](https://github.com/user-attachments/assets/b71e34f8-bd81-406a-a0bc-192f1ac47653)
 
-3. 장바구니/결제
-   ![image](https://github.com/kimg1623/Shopping-CLI-Java/assets/145963790/70c0ce39-3f57-4930-8cd5-cf604a83802b)
+3. 장바구니
+   ![image](https://github.com/user-attachments/assets/850f0789-0312-400d-98af-87eb6c88f498)
 
 4. 관리자 로그인 성공 후 메뉴 / 상품관리화면 / 주문관리화면
    ![image](https://github.com/user-attachments/assets/b4cdcd12-6cc7-4047-bc81-3ad6d003f88a)
